@@ -1,2 +1,5 @@
 # gitTest
-git reset
+
+```
+console.log(git reset --hard test)
+```
